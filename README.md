@@ -6,3 +6,6 @@ Awesome Analysis of Blockchain Statistics
 
 ### Statista Statistics March 2020
 - https://www.statista.com/topics/5122/blockchain/
+
+### TechJury Statisitcs June 2020
+- https://techjury.net/blog/blockchain-statistics/#gref
